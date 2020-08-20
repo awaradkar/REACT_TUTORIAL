@@ -1,0 +1,15 @@
+1. My first goal is to implement the Test Driven Development to the fullest in the current implementation of Pipeline as Code.
+   While implementation of Test Cases make sure all corner cases are covered. The overall code coverage should be greater than 90%.
+	
+
+2. Be an effective team player. The principal of One Team should be always kept in mind. Taking directions from the senior colleagues, 
+   learning from them and also training and mentoring the new associates. This would help in maintaining the agility of team and also 
+   increase the ability of the team to deliver on time.
+
+3. Constantly try to engage with the customer and be one of the imporatnt person of contact for the customer. This will make sure for 
+   ensuring that communication with the client remains smooth and interaction with the client remain positive which will in turn provision
+   concise requirement gathering and client feedback at every step of development. Thus, a finsished product will be easily deliverable.
+
+4. Develop a pipeline on my own. This will help me gain a lot of knowledge about the development cycle involved for a fully functional CI/CD
+   pipeline. The development should be done by keeping in mind test driven development as well as other features such as the ability of
+   the pipeline to be dynamic, scalable and available.
